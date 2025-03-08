@@ -1,0 +1,12 @@
+/project-cv
+  /assets
+    /css
+    /js
+  /includes
+    db.php
+    auth.php
+  /login.php
+  /form.php
+  /cv.php
+  /logout.php
+  index.php
